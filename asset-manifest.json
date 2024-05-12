@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lemospj.github.io/static/css/main.ce1e9982.css",
+    "main.js": "/lemospj.github.io/static/js/main.6bc31cc8.js",
+    "static/media/mypic.jpg": "/lemospj.github.io/static/media/mypic.511cb419e27d390de231.jpg",
+    "index.html": "/lemospj.github.io/index.html",
+    "main.ce1e9982.css.map": "/lemospj.github.io/static/css/main.ce1e9982.css.map",
+    "main.6bc31cc8.js.map": "/lemospj.github.io/static/js/main.6bc31cc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce1e9982.css",
+    "static/js/main.6bc31cc8.js"
+  ]
+}
