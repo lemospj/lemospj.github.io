@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/lemospj.github.io/static/css/main.ce1e9982.css",
-    "main.js": "/lemospj.github.io/static/js/main.6bc31cc8.js",
-    "static/media/mypic.jpg": "/lemospj.github.io/static/media/mypic.511cb419e27d390de231.jpg",
-    "index.html": "/lemospj.github.io/index.html",
-    "main.ce1e9982.css.map": "/lemospj.github.io/static/css/main.ce1e9982.css.map",
-    "main.6bc31cc8.js.map": "/lemospj.github.io/static/js/main.6bc31cc8.js.map"
+    "main.css": "/static/css/main.ce1e9982.css",
+    "main.js": "/static/js/main.42e7982e.js",
+    "static/media/mypic.jpg": "/static/media/mypic.511cb419e27d390de231.jpg",
+    "index.html": "/index.html",
+    "main.ce1e9982.css.map": "/static/css/main.ce1e9982.css.map",
+    "main.42e7982e.js.map": "/static/js/main.42e7982e.js.map"
   },
   "entrypoints": [
     "static/css/main.ce1e9982.css",
-    "static/js/main.6bc31cc8.js"
+    "static/js/main.42e7982e.js"
   ]
 }
