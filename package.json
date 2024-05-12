@@ -42,5 +42,5 @@
     "react-router-dom": "^6.23.1",
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
   },
-  "homepage": "https://lemospj.github.io/lemospj.github.io"
+  "homepage": "https://lemospj.github.io/"
 }
