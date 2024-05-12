@@ -1,6 +1,6 @@
 import './App.css';
 import Layout from './Layout'
-import { BrowserRouter, HashRouter, Route, Routes, useLocation } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import Home from './sections/Home';
 import Teaching from './sections/Teaching';
 import Research from './sections/Research';
