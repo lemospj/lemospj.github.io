@@ -1,6 +1,6 @@
 import './App.css';
 import Layout from './Layout'
-import { BrowserRouter, Route, Routes, useLocation } from 'react-router-dom';
+import { BrowserRouter, HashRouter, Route, Routes, useLocation } from 'react-router-dom';
 import Home from './sections/Home';
 import Teaching from './sections/Teaching';
 import Research from './sections/Research';
@@ -9,7 +9,7 @@ import Other from './sections/Other';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
@@ -19,7 +19,7 @@ function App() {
           <Route path="other" element={<Other />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
