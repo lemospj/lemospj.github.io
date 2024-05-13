@@ -71,7 +71,6 @@ li {
   order: 1;
   z-index: 1;
   background-color: rgb(121, 121, 121);
-  box-shadow: 2px 0px 10px grey;
   overflow-y: auto;
   overflow-x: hidden;
 }
