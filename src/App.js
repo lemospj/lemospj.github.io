@@ -23,20 +23,4 @@ function App() {
   );
 }
 
-function routeHandler(id) {
-  const selectedClassName = "selected";
-  const selectedElements = document.getElementsByClassName(selectedClassName);
-
-  for (const o of selectedElements) {
-    o.classList.remove(selectedClassName);
-  }
-  const elementToSelect = document.getElementById(id);
-
-  if (elementToSelect) {
-    elementToSelect.classList.add(selectedClassName);
-  }
-  
-  return;
-}
-
 export default App;
