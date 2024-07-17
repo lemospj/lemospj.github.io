@@ -1,3 +1,5 @@
+import React from "react";
+
 function Topbar({ onClick, showMenu }) {
     return (
         <div className={showMenu ? "grid-container clicked" : "grid-container"} onClick={onClick}>

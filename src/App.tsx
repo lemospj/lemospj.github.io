@@ -1,11 +1,12 @@
 import './App.css';
-import Layout from './Layout'
+import Layout from './Layout.tsx'
 import { HashRouter, Route, Routes } from 'react-router-dom';
-import Home from './sections/Home';
-import Teaching from './sections/Teaching';
-import Research from './sections/Research';
-import Projects from './sections/Projects';
-import Other from './sections/Other';
+import Home from './sections/Home.tsx';
+import Teaching from './sections/Teaching.tsx';
+import Research from './sections/Research.tsx';
+import Projects from './sections/Projects.tsx';
+import Other from './sections/Other.tsx';
+import React from 'react';
 
 function App() {
   return (
